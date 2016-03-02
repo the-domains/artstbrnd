@@ -1,0 +1,28 @@
+name: ARTSTbrnd
+favicon: null
+layout_spectrum: 0.18290983326733112
+typography_spectrum: 0.32085452298633754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8801513719372451
+  lightness: 0.9280884116888046
+  saturation: 0.1485834384802729
+  rhythmicContrast: 0.16664001578465104
+purpose: []
